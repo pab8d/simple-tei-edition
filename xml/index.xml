@@ -18,7 +18,20 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div type="poem">
+           <lg>
+             <l><hi rend="caps">Angels</hi> in the early morning</l>
+             <l>May be seen the dews among,</l>
+             <l>Stooping, plucking, smiling, flying:</l>
+             <l>Do the buds to them belong?</l>
+           </lg>
+           <lg>
+             <l>Angels when the sun is hottest</l>
+             <l>May be seen the sands among,</l>
+             <l>Stooping, plucking, sighing, flying;</l>
+             <l>Parched the flowers they bear along.</l>
+           </lg>
+         </div>
       </body>
   </text>
 </TEI>
